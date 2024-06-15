@@ -82,10 +82,6 @@ Email 📧: tum4World@email.com
 
 Tum4World - via Degli Alberi, 100 - 33000 Trento, Italia			
 
-## Frasi
-
-- ****************Work in progress…****************
-
 ## Prima del deploy
 
 Prima di effettuare il Deploy della webapp è necessario:
